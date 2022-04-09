@@ -59,6 +59,10 @@ plt.ylabel("loss")
 
 ## Output:
 ![linear regression using gradient descent](sam.png)
+![output 2]()
+![output 3]()
+![output 4]()
+
 
 
 ## Result:
