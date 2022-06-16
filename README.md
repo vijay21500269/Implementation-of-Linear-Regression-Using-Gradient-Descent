@@ -66,10 +66,7 @@ plt.ylabel("loss")
 
 ## Output:
 ![output 1](https://github.com/vijay21500269/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/pic%201.png)
-![output 2](https://github.com/vijay21500269/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/pic%202.png)
-![output 3](https://github.com/vijay21500269/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/pic%203.png)
-![output 4](https://github.com/vijay21500269/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/pic%204.png)
-
+![output 2]()
 
 
 ## Result:
